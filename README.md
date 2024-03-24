@@ -19,6 +19,8 @@ Na era atual da informação, onde a quantidade de dados está em crescimento ex
 8. Testes de Hipóteses: Os testes de hipóteses são procedimentos estatísticos utilizados para tomar decisões sobre as hipóteses formuladas a respeito de parâmetros populacionais. Eles envolvem a comparação de uma estatística amostral com um valor crítico ou a avaliação da probabilidade de obter a estatística observada sob a hipótese nula.
 
 
+Ementa: https://www.im.ufrj.br/index.php/pt/ensino/graduacao/programa-especial-de-matematica/ementas-do-programa-especial-de-matematica/335-inferencia-estatistica-i-mad351
+
 
 
 
